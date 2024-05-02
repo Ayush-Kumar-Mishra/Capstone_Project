@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/E1 - Conduction.unity
+- path: Assets/Scenes/E3 - Sepration Methods.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

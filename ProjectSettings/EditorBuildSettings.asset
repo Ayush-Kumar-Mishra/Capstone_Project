@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/E1 - Conduction.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/E2 - Periscope.unity
+    guid: db673ead2bf805947855d278613aa9a5
+  - enabled: 1
+    path: Assets/Scenes/E3 - Sepration Methods.unity
+    guid: f233cf2b0f3ad904ab097b23198f8e3d
   m_configObjects: {}
